@@ -86,6 +86,6 @@ Projeye katkıda bulunmak isterseniz, lütfen aşağıdaki adımları takip edin
 
 ---
 
-📧 **İletişim:** Herhangi bir sorunuz veya geri bildiriminiz için [Kerim Emre Çoban](mailto:kerim@example.com) ile iletişime geçebilirsiniz.
+📧 **İletişim:** Herhangi bir sorunuz veya geri bildiriminiz için [Kerim Emre Çoban](mailto:kerim.ko37@gmail.com) ile iletişime geçebilirsiniz.
 
 🌟 **Teşekkürler:** Projeye katkı sağlayan İlaydanur Günay ve Barış Cem Ant'a teşekkürler.
