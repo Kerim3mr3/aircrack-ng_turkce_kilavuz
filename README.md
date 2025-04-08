@@ -22,7 +22,7 @@ Ayrıca bu süreçte bize rehberlik eden çok kıymetli hocamız
 - [Özet](#özet)
 - [Projenin Amacı](#projenin-amacı)
 - [İçerik Özeti](#içerik-özeti)
-- [Aircrack-ng Modülleri](#aircrack-ng-modülleri)
+- [Senaryo](#Senaryo)
 - [Kablosuz Ağ Saldırı Türleri](#kablosuz-ağ-saldırı-türleri)
 - [Nasıl Kullanılır?](#nasıl-kullanılır)
 - [Yasal Uyarı](#yasal-uyarı)
@@ -50,14 +50,21 @@ Bu kılavuzun temel amacı, kablosuz ağ güvenliğini sağlamak için kullanıl
 
 ---
 
-## Aircrack-ng Modülleri
+## Senaryo
 
 Aircrack-ng araç setindeki bazı temel modüller şunlardır:
 
-- **Airodump-ng:** Kablosuz ağ trafiğini izleme ve analiz etme.  
-- **Aireplay-ng:** Ağlara yönelik çeşitli saldırılar gerçekleştirme.  
-- **Aircrack-ng:** WEP ve WPA/WPA2 şifrelerini kırma.  
-- **Airbase-ng:** Sahte erişim noktaları oluşturma.
+- **Çevredeki Ağlar:**
+  ![Ağ Tarama](aircrack-info-images/ağ_tarama.PNG)
+
+- **Aireplay-ng Aracı İle Ağdan Cihaz Düşürme:**
+  ![Ağdan Cihaz Düşürme](aircrack-info-images/ağdan_cihaz_düşürme.PNG)
+
+- **WPA-HANDSHAKE Ele Geçirme**
+  ![WPA Handshake](aircrack-info-images/wpa_handshake.png)
+
+- **Aircrack-ng İle Şifre Kırma**
+  ![Senaryo Görseli](aircrack-info-images/34İstanbul!.PNG)
 
 ---
 
