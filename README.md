@@ -64,7 +64,7 @@ Aircrack-ng araç setindeki bazı temel modüller şunlardır:
   ![WPA Handshake](aircrack-info-images/wpa_handshake.png)
 
 - **Aircrack-ng İle Şifre Kırma**
-  ![Senaryo Görseli](aircrack-info-images/34istanbul.png)
+  ![Senaryo Görseli](aircrack-info-images/34istanbul.PNG)
 
 ---
 
