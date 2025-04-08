@@ -12,8 +12,8 @@ Bu projede bana yardımcı olan değerli ekip arkadaşlarıma teşekkür ederim:
 - [İlaydanur GÜNAY](https://github.com/Kizanim0)  
 - [Barış Cem ANT](https://github.com/0Baris)
 
-Ayrıca bu süreçte bizlere rehberlik eden çok kıymetli hocamız  
-[**Öğr. Gör. Çisem YAŞAR**](https://github.com/cyasar34) ⭐'a da sonsuz teşekkürlerimi sunuyorum.
+Ayrıca bu süreçte bize rehberlik eden çok kıymetli hocamız  
+[**Öğr. Gör. Çisem YAŞAR**](https://github.com/cyasar34) ⭐'a da sonsuz teşekkürlerimizi sunuyoruz.
 
 ---
 
