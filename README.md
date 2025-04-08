@@ -57,14 +57,14 @@ Aircrack-ng araç setindeki bazı temel modüller şunlardır:
 - **Çevredeki Ağlar:**
   ![Ağ Tarama](aircrack-info-images/ağ_tarama.PNG)
 
-- **Aireplay-ng Aracı İle Ağdan Cihaz Düşürme:**
+- **Aireplay-ng Aracı İle Ağdan Cihaz Düşürme Simülasyon:**
   ![Ağdan Cihaz Düşürme](aircrack-info-images/ağdan_cihaz_düşürme.PNG)
 
 - **WPA-HANDSHAKE Ele Geçirme**
   ![WPA Handshake](aircrack-info-images/wpa_handshake.png)
 
 - **Aircrack-ng İle Şifre Kırma**
-  ![Senaryo Görseli](aircrack-info-images/34İstanbul!.PNG)
+  ![Senaryo Görseli](aircrack-info-images/34istanbul.png)
 
 ---
 
